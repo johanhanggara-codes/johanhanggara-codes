@@ -3,7 +3,7 @@
 Mahasiswa Informatika Semester 2 yang fokus mengembangkan keahlian di bidang pengembangan perangkat lunak dan teknologi web. Saya senang memecahkan masalah melalui kode yang bersih dan terstruktur.
 
 ## 🚀 Tentang Saya
-- 🎓 Saat ini menempuh pendidikan S1 Informatika.
+- 🎓 Saat ini menempuh pendidikan S1 Informatika di Universitas Ahmad Dahlan.
 - 💻 Sedang mendalami: **Web Development (Frontend/Backend)** & **Struktur Data**.
 - 🌱 Saya selalu terbuka untuk belajar teknologi baru dan berkolaborasi dalam proyek sumber terbuka (*open-source*).
 
@@ -24,5 +24,5 @@ Berikut adalah beberapa teknologi yang sedang saya pelajari dan gunakan dalam pr
 </p>
 
 ## 📬 Mari Terhubung!
-- **LinkedIn:** [Johan Hanggara Hasiholan](https://www.linkedin.com/in/johan-hanggara-hasiholan-7baa123a9/)
+- **LinkedIn:** [Johan Hanggara Hasiholan](https://linkedin.com)
 - **Email:** [johanhanggarahasiholan@gmail.com](mailto:johanhanggarahasiholan@gmail.com)
