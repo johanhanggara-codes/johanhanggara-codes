@@ -25,4 +25,4 @@ Berikut adalah beberapa teknologi yang sedang saya pelajari dan gunakan dalam pr
 
 ## 📬 Mari Terhubung!
 - **LinkedIn:** [Johan Hanggara Hasiholan](https://linkedin.com)
-- **Email:** [johanhanggarahasiholan@gmail.com](mailto:johanhanggarahasiholan@gmail.com)
+- **Email:** [johanhanggarahasiholan@gmail.com](mailto:johanhanggarahasiholan@gmail.com) 
